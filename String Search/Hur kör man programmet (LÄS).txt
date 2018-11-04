@@ -1,0 +1,10 @@
+Hej!
+
+För att köra programmet så skall man navigera sig till paketet String search och sedan på Read.Java filen. I den finns det en rad (Rad 19) : String source = "src/Texter/C++.txt"; där du har möjligheten att ändra till olika texter. I filerna finns det 4 st olika texter vilka är
+
+C++
+CMS
+Emery
+Programming
+
+Det gäller helt enkelt bara att navigera sig till där filerna är och ändra bara på det sista meningen t.ex. "src/Texter/C++.txt";, "src/Texter/CMS.txt"; m.m. Det är viktigt att ha .txt på slutet! 
