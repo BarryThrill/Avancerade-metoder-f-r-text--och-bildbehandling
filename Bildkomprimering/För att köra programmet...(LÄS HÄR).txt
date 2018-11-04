@@ -1,0 +1,5 @@
+Hej!
+
+För att köra programmet felfritt är det viktigt att ha filerna megatronsfiles uppackat på ett ställe där man är medveten om vart den är. När du har lagt in filerna i ditt program så ska du naivgera dig till paket RunProgram, Sedan går du till RunProgram och i FilePlace ändrar du till navigeringen till där du har din megatronfiles uppackat. Sedan Imagefile för att välja vilken bild du vill förvandla till MTG-BEM-PNG.
+
+OBS. Det kan ta en stund till att filerna bli konverterade, Ha tålamod! :)
